@@ -1,6 +1,5 @@
 [
   {
-    "StationNameUp":"RADIO RECORD",
     "StationName":"Radio Record",
     "StationIcon":"&#xe000;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8100/rr_aac",
@@ -12,7 +11,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/rr_history.txt"
   },
   {
-    "StationNameUp":"MEGAMIX",
     "StationName":"Megamix",
     "StationIcon":"&#xe001;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/mix_aac",
@@ -24,7 +22,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/mix_history.txt"
   },
   {
-    "StationNameUp":"DEEP",
     "StationName":"Deep",
     "StationIcon":"&#xe002;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/deep_aac",
@@ -36,7 +33,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/deep_history.txt"
   },
   {
-    "StationNameUp":"EDM",
     "StationName":"EDM",
     "StationIcon":"&#xe003;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/club_aac",
@@ -49,7 +45,6 @@
     "StationIconMargin":"0,-2,0,0"
   },
   {
-    "StationNameUp":"HOUSE",
     "StationName":"House",
     "StationIcon":"&#xe004;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/fut_aac",
@@ -61,7 +56,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/fut_history.txt"
   },
   {
-    "StationNameUp":"TRANCEMISSION",
     "StationName":"Trancemission",
     "StationIcon":"&#xe005;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/tm_aac",
@@ -73,7 +67,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/tm_history.txt"
   },
   {
-    "StationNameUp":"CHILL-OUT",
     "StationName":"Chill-Out",
     "StationIcon":"&#xe006;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/chil_aac",
@@ -85,7 +78,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/chil_history.txt"
   },
   {
-    "StationNameUp":"MINIMAL / TECH",
     "StationName":"Minimal / Tech",
     "StationIcon":"&#xe007;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/mini_aac",
@@ -97,7 +89,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/mini_history.txt"
   },
   {
-    "StationNameUp":"PIRATE STATION",
     "StationName":"Pirate Station",
     "StationIcon":"&#xe008;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/ps_aac",
@@ -109,7 +100,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/ps_history.txt"
   },
   {
-    "StationNameUp":"VIP HOUSE",
     "StationName":"Vip House",
     "StationIcon":"&#xe009;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/vip_aac",
@@ -121,7 +111,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/vip_history.txt"
   },
   {
-    "StationNameUp":"BREAKS",
     "StationName":"Breaks",
     "StationIcon":"&#xe00a;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/brks_aac",
@@ -133,7 +122,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/brks_history.txt"
   },
   {
-    "StationNameUp":"GOA/PSY",
     "StationName":"GOA/PSY",
     "StationIcon":"&#xe018;",
     "StationURL_AAC_32":"http://air2.radiorecord.ru:8102/goa_aac",
@@ -145,7 +133,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/goa_history.txt"
   },
   {
-    "StationNameUp":"TROPICAL",
     "StationName":"Tropical",
     "StationIcon":"&#xe019;",
     "StationURL_AAC_32":"http://air2.radiorecord.ru:8102/trop_aac",
@@ -157,7 +144,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/trop_history.txt"
   },
   {
-    "StationNameUp":"DUBSTEP",
     "StationName":"Dubstep",
     "StationIcon":"&#xe00b;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/dub_aac",
@@ -169,7 +155,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/dub_history.txt"
   },
   {
-    "StationNameUp":"DANCECORE",
     "StationName":"Dancecore",
     "StationIcon":"&#xe00c;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/dc_aac",
@@ -181,7 +166,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/dc_history.txt"
   },
   {
-    "StationNameUp":"RAVE FM",
     "StationName":"Rave FM",
     "StationIcon":"&#xe017;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/rave_aac",
@@ -193,7 +177,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/rave_history.txt"
   },
   {
-    "StationNameUp":"TECHNO",
     "StationName":"Techno",
     "StationIcon":"&#xe00d;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/techno_aac",
@@ -205,7 +188,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/techno_history.txt"
   },
   {
-    "StationNameUp":"HARDSTYLE",
     "StationName":"Hardstyle",
     "StationIcon":"&#xe00e;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/teo_aac",
@@ -217,7 +199,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/teo_history.txt"
   },
   {
-    "StationNameUp":"TRAP",
     "StationName":"Trap",
     "StationIcon":"&#xe00f;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/trap_aac",
@@ -229,7 +210,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/trap_history.txt"
   },
   {
-    "StationNameUp":"OLD SCHOOL",
     "StationName":"Old School",
     "StationIcon":"&#xe02b;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/pump_aac",
@@ -241,7 +221,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/pump_history.txt"
   },
   {
-    "StationNameUp":"RUSSIAN MIX",
     "StationName":"Russian Mix",
     "StationIcon":"&#xe011;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/rus_aac",
@@ -253,7 +232,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/rus_history.txt"
   },
   {
-    "StationNameUp":"ROCK",
     "StationName":"Rock",
     "StationIcon":"&#xe012;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/rock_aac",
@@ -266,7 +244,6 @@
     "StationIconMargin":"-12,0,0,0"
   },
   {
-    "StationNameUp":"СУПЕРДИСКО 90-Х",
     "StationName":"Супердиско 90-Х",
     "StationIcon":"&#xe013;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/sd90_aac",
@@ -278,7 +255,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/sd90_history.txt"
   },
   {
-    "StationNameUp":"МЕДЛЯК FM",
     "StationName":"Медляк FM",
     "StationIcon":"&#xe014;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/mdl_aac",
@@ -290,7 +266,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/mdl_history.txt"
   },
   {
-    "StationNameUp":"ГОП FM",
     "StationName":"Гоп FM",
     "StationIcon":"&#xe015;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/gop_aac",
@@ -302,7 +277,6 @@
     "StationHistory":"http://history.radiorecord.ru/history_json/gop_history.txt"
   },
   {
-    "StationNameUp":"BLACK",
     "StationName":"Black",
     "StationIcon":"&#xe02c;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/yo_aac",
@@ -315,7 +289,6 @@
   },
   {
     "StationName":"Нафталин FM",
-    "StationNameUp":"НАФТАЛИН FM",
     "StationIcon":"&#xe01f;",
     "StationURL_AAC_32":"http://air.radiorecord.ru:8102/naft_aac",
     "StationURL_AAC_64":"http://air.radiorecord.ru:8102/naft_aac_64",
